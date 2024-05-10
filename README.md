@@ -1,4 +1,4 @@
-# Effective Java (3rd Edition)
+# Effective Java (3rd Edition) Group Study
 
 ### Rules
 - 질문은 Issues에 작성해요.
