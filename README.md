@@ -1,4 +1,4 @@
-# Java Group Study
+# for Study of Java
 
 ### Rules
-- 글은 Issues에 작성해요.
+- 모두 면접관이 되어 Issues에 질문을 작성해보아요.
